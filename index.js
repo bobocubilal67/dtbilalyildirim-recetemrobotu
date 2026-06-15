@@ -46,7 +46,7 @@ module.exports = (req, res) => {
         { ilac: "Klorheksidin + Benzidamin Gargara", doz: "3x1", sure: "7 Gun", aciklama: "Dis fircalamadan 30 dk sonra." },
         { ilac: "Parasetamol 500 mg Tablet", doz: "2x1", sure: "3 Gun", aciklama: "Hafif agri/hassasiyet durumunda." }
       ],
-      notlar: "Detertraj ve oral hijyen egitimi asil tedavidir. Recete destekleyicidir."
+      notlar: "Detertraj ve oral hijyen egitimi asil tedadir. Recete destekleyicidir."
     }
   };
 
